@@ -10,3 +10,4 @@ Snippets, Algorithms, and small coding bugs / issues in my understanding.
 
 ## goalang
 - [Converting Hexadecimal Strings to Decimals (big.Ints)](golang/converting-hexadecimal-strings-to-ints.md) - 2021-07-25
+- [Math with Big Floats](golang/math-with-big-floats.md) - 2021-07-27
