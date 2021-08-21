@@ -15,3 +15,4 @@ Snippets, Algorithms, and small coding bugs / issues in my understanding.
 ## python
 - [A Memoization Story (@lru_cache)](python/a-memoization-story.md) - 2021-08-21
 - [Crazy Reverse Operator](python/crazy-reverse-operator.md) - 2021-08-04
+- [Using Ascii Numbers](python/using-ascii-numbers.md) - 2021-08-22
