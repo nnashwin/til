@@ -1,6 +1,6 @@
 # Today I Learned
 
-Inspired from simon wilson at [til.simonwilson.net](https://til.simonwillison.net/), which I spotted in a google search.
+Inspired by simon wilson at [til.simonwilson.net](https://til.simonwillison.net/).
 
 Snippets, Algorithms, and small coding bugs / issues in my understanding.
 
@@ -13,4 +13,5 @@ Snippets, Algorithms, and small coding bugs / issues in my understanding.
 - [Math with Big Floats](golang/math-with-big-floats.md) - 2021-07-27
 
 ## python
+- [A Memoization Story (@lru_cache)](python/a-memoization-story.md) - 2021-08-21
 - [Crazy Reverse Operator](python/crazy-reverse-operator.md) - 2021-08-04
